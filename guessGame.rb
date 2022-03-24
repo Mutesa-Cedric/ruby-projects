@@ -97,6 +97,10 @@ while guessed_number!=random
 end
 
 # conglaturating the winner
-puts "you have won"
+2.times do
+    puts "****wow*****"
+    puts "you have won"
+end
 
+#the game ends here
 
